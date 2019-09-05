@@ -1,3 +1,6 @@
 # Cissie
 Hello!
-I love :cat:
+
+I love :cat:.
+
+You can call me CC~
